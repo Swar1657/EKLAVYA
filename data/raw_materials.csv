@@ -1,0 +1,16 @@
+material_id,material_name,supplier_id,unit_cost,current_stock
+1,Active/Carrier Material 1,1,898.17,1700.51
+2,Active/Carrier Material 2,2,881.06,2349.67
+3,Active/Carrier Material 3,3,116.77,2052.82
+4,Active/Carrier Material 4,4,603.82,3563.17
+5,Active/Carrier Material 5,5,520.06,2515.02
+6,Active/Carrier Material 6,6,537.84,3167.14
+7,Active/Carrier Material 7,7,155.49,2163.45
+8,Active/Carrier Material 8,8,286.15,4114.13
+9,Active/Carrier Material 9,1,470.94,4925.4
+10,Active/Carrier Material 10,2,413.05,4173.94
+11,Active/Carrier Material 11,3,736.66,1178.23
+12,Active/Carrier Material 12,4,501.64,3631.16
+13,Active/Carrier Material 13,5,785.27,1966.82
+14,Active/Carrier Material 14,6,268.4,3700.17
+15,Active/Carrier Material 15,7,745.7,2069.0

@@ -1,0 +1,81 @@
+crop,region,sowing_month,peak_demand_month
+Sugarcane,Pune,7,7
+Sugarcane,Solapur,7,7
+Sugarcane,Kolhapur,7,7
+Sugarcane,Nashik,7,7
+Sugarcane,Ahmednagar,7,7
+Sugarcane,Sangli,7,7
+Sugarcane,Satara,7,7
+Sugarcane,Aurangabad,7,7
+Cotton,Pune,6,6
+Cotton,Solapur,6,6
+Cotton,Kolhapur,6,6
+Cotton,Nashik,6,6
+Cotton,Ahmednagar,6,6
+Cotton,Sangli,6,6
+Cotton,Satara,6,6
+Cotton,Aurangabad,6,6
+Soybean,Pune,6,6
+Soybean,Solapur,6,6
+Soybean,Kolhapur,6,6
+Soybean,Nashik,6,6
+Soybean,Ahmednagar,6,6
+Soybean,Sangli,6,6
+Soybean,Satara,6,6
+Soybean,Aurangabad,6,6
+Onion,Pune,10,10
+Onion,Solapur,10,10
+Onion,Kolhapur,10,10
+Onion,Nashik,10,10
+Onion,Ahmednagar,10,10
+Onion,Sangli,10,10
+Onion,Satara,10,10
+Onion,Aurangabad,10,10
+Banana,Pune,6,7
+Banana,Solapur,6,7
+Banana,Kolhapur,6,7
+Banana,Nashik,6,7
+Banana,Ahmednagar,6,7
+Banana,Sangli,6,7
+Banana,Satara,6,7
+Banana,Aurangabad,6,7
+Pomegranate,Pune,6,6
+Pomegranate,Solapur,6,6
+Pomegranate,Kolhapur,6,6
+Pomegranate,Nashik,6,6
+Pomegranate,Ahmednagar,6,6
+Pomegranate,Sangli,6,6
+Pomegranate,Satara,6,6
+Pomegranate,Aurangabad,6,6
+Grapes,Pune,6,7
+Grapes,Solapur,6,7
+Grapes,Kolhapur,6,7
+Grapes,Nashik,6,7
+Grapes,Ahmednagar,6,7
+Grapes,Sangli,6,7
+Grapes,Satara,6,7
+Grapes,Aurangabad,6,7
+Poly-house crops,Pune,8,8
+Poly-house crops,Solapur,8,8
+Poly-house crops,Kolhapur,8,8
+Poly-house crops,Nashik,8,8
+Poly-house crops,Ahmednagar,8,8
+Poly-house crops,Sangli,8,8
+Poly-house crops,Satara,8,8
+Poly-house crops,Aurangabad,8,8
+Ginger,Pune,5,5
+Ginger,Solapur,5,5
+Ginger,Kolhapur,5,5
+Ginger,Nashik,5,5
+Ginger,Ahmednagar,5,5
+Ginger,Sangli,5,5
+Ginger,Satara,5,5
+Ginger,Aurangabad,5,5
+Turmeric,Pune,5,5
+Turmeric,Solapur,5,5
+Turmeric,Kolhapur,5,5
+Turmeric,Nashik,5,5
+Turmeric,Ahmednagar,5,5
+Turmeric,Sangli,5,5
+Turmeric,Satara,5,5
+Turmeric,Aurangabad,5,5

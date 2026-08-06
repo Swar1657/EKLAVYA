@@ -1,0 +1,71 @@
+dealer_id,dealer_name,dealer_type,region,district,credit_limit,onboarding_date
+1,Choudhury Agro Distributors,Distributor,Pune,Pune,867964.3,2021-09-19
+2,Maharaj Krishi Seva Kendra,Retailer,Pune,Pune,173745.11,2022-08-27
+3,Kapoor Agro Distributors,Distributor,Pune,Pune,351396.44,2022-03-16
+4,Chaudry Agro Distributors,Distributor,Pune,Pune,813014.49,2024-06-28
+5,Chahal Agro Distributors,Distributor,Pune,Pune,710247.18,2024-02-15
+6,Sami Agro Distributors,Distributor,Pune,Pune,880441.4,2021-09-30
+7,Balan Krishi Seva Kendra,Retailer,Pune,Pune,100344.43,2022-01-04
+8,Kamdar Agro Distributors,Distributor,Pune,Pune,369212.93,2022-08-08
+9,Tiwari Agro Distributors,Distributor,Pune,Pune,591091.68,2024-03-04
+10,Bala Agro Distributors,Distributor,Pune,Pune,439298.94,2023-12-31
+11,Issac Agro Distributors,Distributor,Pune,Pune,340671.01,2024-08-28
+12,Saini Agro Distributors,Distributor,Pune,Pune,488135.2,2022-07-20
+13,Sen Agro Distributors,Distributor,Pune,Pune,760364.37,2024-02-13
+14,Mall Agro Distributors,Distributor,Pune,Pune,584252.38,2025-01-20
+15,Ahuja Agro Distributors,Distributor,Pune,Pune,280192.77,2024-11-02
+16,Dutta Agro Distributors,Distributor,Pune,Pune,360840.68,2024-07-31
+17,Sami Agro Distributors,Distributor,Solapur,Solapur,866775.6,2023-01-22
+18,Mall Krishi Seva Kendra,Retailer,Solapur,Solapur,213595.5,2022-04-10
+19,Kale Agro Distributors,Distributor,Solapur,Solapur,313486.87,2024-11-10
+20,Nayar Agro Distributors,Distributor,Solapur,Solapur,536099.12,2022-01-17
+21,Chanda Agro Distributors,Distributor,Solapur,Solapur,571864.99,2023-03-25
+22,Chatterjee Agro Distributors,Distributor,Solapur,Solapur,841058.26,2023-02-20
+23,Padmanabhan Agro Distributors,Distributor,Solapur,Solapur,680639.48,2024-03-06
+24,Lalla Agro Distributors,Distributor,Kolhapur,Kolhapur,588044.21,2025-01-16
+25,Bassi Agro Distributors,Distributor,Kolhapur,Kolhapur,370155.4,2024-09-18
+26,Sharaf Krishi Seva Kendra,Retailer,Kolhapur,Kolhapur,207275.24,2023-11-23
+27,Dash Krishi Seva Kendra,Retailer,Kolhapur,Kolhapur,230017.2,2023-03-23
+28,Brar Agro Distributors,Distributor,Kolhapur,Kolhapur,849218.25,2023-12-17
+29,Memon Agro Distributors,Distributor,Kolhapur,Kolhapur,377388.86,2025-02-20
+30,Pathak Agro Distributors,Distributor,Kolhapur,Kolhapur,461464.71,2024-01-25
+31,Handa Agro Distributors,Distributor,Kolhapur,Kolhapur,426376.87,2024-08-10
+32,Boase Krishi Seva Kendra,Retailer,Nashik,Nashik,127783.13,2021-10-22
+33,Kari Agro Distributors,Distributor,Nashik,Nashik,602752.45,2024-11-24
+34,Mann Agro Distributors,Distributor,Nashik,Nashik,771428.04,2021-12-13
+35,Kaul Agro Distributors,Distributor,Nashik,Nashik,891476.51,2025-04-19
+36,Chaudhuri Krishi Seva Kendra,Retailer,Nashik,Nashik,97755.98,2023-03-25
+37,Mall Agro Distributors,Distributor,Nashik,Nashik,780049.93,2023-07-17
+38,Patla Krishi Seva Kendra,Retailer,Nashik,Nashik,198511.36,2022-04-21
+39,Prabhakar Krishi Seva Kendra,Retailer,Nashik,Nashik,74068.48,2023-02-14
+40,Kadakia Agro Distributors,Distributor,Nashik,Nashik,325314.89,2024-06-18
+41,Loke Krishi Seva Kendra,Retailer,Nashik,Nashik,178426.64,2024-08-06
+42,Bora Agro Distributors,Distributor,Nashik,Nashik,291312.93,2024-03-15
+43,Garg Agro Distributors,Distributor,Nashik,Nashik,461369.16,2023-11-19
+44,Konda Krishi Seva Kendra,Retailer,Nashik,Nashik,181135.92,2022-04-22
+45,Shere Krishi Seva Kendra,Retailer,Ahmednagar,Ahmednagar,149720.84,2023-03-24
+46,Madan Agro Distributors,Distributor,Ahmednagar,Ahmednagar,713609.11,2024-05-02
+47,Kanda Krishi Seva Kendra,Retailer,Ahmednagar,Ahmednagar,166642.67,2024-07-10
+48,Nair Krishi Seva Kendra,Retailer,Ahmednagar,Ahmednagar,153821.16,2025-03-13
+49,Bhalla Agro Distributors,Distributor,Ahmednagar,Ahmednagar,527901.66,2022-08-02
+50,Balay Agro Distributors,Distributor,Ahmednagar,Ahmednagar,320129.43,2025-01-13
+51,Mutti Agro Distributors,Distributor,Ahmednagar,Ahmednagar,663666.77,2023-04-27
+52,Loyal Agro Distributors,Distributor,Ahmednagar,Ahmednagar,580570.95,2021-11-22
+53,Kakar Krishi Seva Kendra,Retailer,Sangli,Sangli,107365.52,2024-01-10
+54,Murty Agro Distributors,Distributor,Sangli,Sangli,741108.24,2022-07-08
+55,Tata Agro Distributors,Distributor,Sangli,Sangli,300036.94,2023-04-18
+56,Shanker Agro Distributors,Distributor,Sangli,Sangli,354793.84,2022-03-21
+57,Lanka Krishi Seva Kendra,Retailer,Sangli,Sangli,213542.87,2022-03-16
+58,Koshy Agro Distributors,Distributor,Sangli,Sangli,816449.38,2024-10-12
+59,Yohannan Krishi Seva Kendra,Retailer,Satara,Satara,95448.31,2022-09-24
+60,Sangha Krishi Seva Kendra,Retailer,Satara,Satara,162475.03,2024-02-04
+61,Rastogi Krishi Seva Kendra,Retailer,Satara,Satara,230257.35,2023-02-25
+62,Kanda Agro Distributors,Distributor,Satara,Satara,321533.75,2022-03-14
+63,Upadhyay Agro Distributors,Distributor,Satara,Satara,527620.06,2023-09-17
+64,Chand Krishi Seva Kendra,Retailer,Satara,Satara,223538.81,2024-10-29
+65,Batta Agro Distributors,Distributor,Aurangabad,Aurangabad,581985.75,2025-04-10
+66,Choudhary Agro Distributors,Distributor,Aurangabad,Aurangabad,394370.08,2022-04-06
+67,Dutta Agro Distributors,Distributor,Aurangabad,Aurangabad,469449.86,2024-12-24
+68,Sami Krishi Seva Kendra,Retailer,Aurangabad,Aurangabad,121408.56,2024-02-24
+69,Bhatt Agro Distributors,Distributor,Aurangabad,Aurangabad,706962.32,2023-04-01
+70,Raj Agro Distributors,Distributor,Aurangabad,Aurangabad,881658.35,2024-02-23

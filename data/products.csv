@@ -1,0 +1,46 @@
+product_id,product_name,category,target_crop,pack_size,mrp,dealer_price,shelf_life_months
+1,Eklavya Sugarcane PGR 01,PGR,Sugarcane,100 ml,376.01,312.72,36
+2,Eklavya Cotton PGR 02,PGR,Cotton,250 ml,2351.32,1691.19,18
+3,Eklavya Soybean PGR 03,PGR,Soybean,500 ml,416.66,345.6,24
+4,Eklavya Onion PGR 04,PGR,Onion,1 L,1785.09,1306.68,24
+5,Eklavya Banana PGR 05,PGR,Banana,250 g,2458.1,1898.46,18
+6,Eklavya Pomegranate PGR 06,PGR,Pomegranate,500 g,718.35,512.21,18
+7,Eklavya Grapes PGR 07,PGR,Grapes,1 kg,2265.98,1787.03,18
+8,Eklavya Poly-house crops PGR 08,PGR,Poly-house crops,100 ml,805.35,642.71,36
+9,Eklavya Ginger PGR 09,PGR,Ginger,250 ml,2162.36,1636.11,18
+10,Eklavya Turmeric PGR 10,PGR,Turmeric,500 ml,1658.77,1180.68,24
+11,Eklavya Sugarcane PGR 11,PGR,Sugarcane,1 L,1722.12,1345.49,24
+12,Eklavya Cotton PGR 12,PGR,Cotton,250 g,2359.31,1973.12,24
+13,Eklavya Soybean PGR 13,PGR,Soybean,500 g,527.9,410.08,24
+14,Eklavya Onion PGR 14,PGR,Onion,1 kg,1203.8,1010.26,18
+15,Eklavya Banana PGR 15,PGR,Banana,100 ml,192.48,148.05,36
+16,Eklavya Pomegranate PGR 16,PGR,Pomegranate,250 ml,1844.21,1370.49,36
+17,Eklavya Grapes Biostimulant 17,Biostimulant,Grapes,500 ml,1014.13,747.54,24
+18,Eklavya Poly-house crops Biostimulant 18,Biostimulant,Poly-house crops,1 L,1536.2,1285.87,36
+19,Eklavya Ginger Biostimulant 19,Biostimulant,Ginger,250 g,2246.31,1770.9,24
+20,Eklavya Turmeric Biostimulant 20,Biostimulant,Turmeric,500 g,972.68,768.72,36
+21,Eklavya Sugarcane Biostimulant 21,Biostimulant,Sugarcane,1 kg,1307.42,950.93,18
+22,Eklavya Cotton Biostimulant 22,Biostimulant,Cotton,100 ml,1323.1,1032.12,18
+23,Eklavya Soybean Biostimulant 23,Biostimulant,Soybean,250 ml,252.47,211.88,24
+24,Eklavya Onion Biostimulant 24,Biostimulant,Onion,500 ml,2391.73,1980.55,36
+25,Eklavya Banana Biostimulant 25,Biostimulant,Banana,1 L,1907.14,1589.47,18
+26,Eklavya Pomegranate Biostimulant 26,Biostimulant,Pomegranate,250 g,1156.23,965.84,36
+27,Eklavya Grapes Biostimulant 27,Biostimulant,Grapes,500 g,2453.78,1743.53,18
+28,Eklavya Poly-house crops Biostimulant 28,Biostimulant,Poly-house crops,1 kg,1054.98,864.2,36
+29,Eklavya Ginger Biostimulant 29,Biostimulant,Ginger,100 ml,548.31,426.56,36
+30,Eklavya Turmeric Biostimulant 30,Biostimulant,Turmeric,250 ml,2133.9,1771.57,24
+31,Eklavya Sugarcane Biostimulant 31,Biostimulant,Sugarcane,500 ml,378.36,297.43,24
+32,Eklavya Cotton Biostimulant 32,Biostimulant,Cotton,1 L,992.82,730.3,24
+33,Eklavya Soybean Micronutrient 33,Micronutrient,Soybean,250 g,2211.83,1777.66,18
+34,Eklavya Onion Micronutrient 34,Micronutrient,Onion,500 g,471.06,376.49,36
+35,Eklavya Banana Micronutrient 35,Micronutrient,Banana,1 kg,839.94,683.13,36
+36,Eklavya Pomegranate Micronutrient 36,Micronutrient,Pomegranate,100 ml,752.09,590.85,24
+37,Eklavya Grapes Micronutrient 37,Micronutrient,Grapes,250 ml,162.18,127.78,18
+38,Eklavya Poly-house crops Micronutrient 38,Micronutrient,Poly-house crops,500 ml,316.71,239.29,24
+39,Eklavya Ginger Micronutrient 39,Micronutrient,Ginger,1 L,2241.51,1675.12,24
+40,Eklavya Turmeric Micronutrient 40,Micronutrient,Turmeric,250 g,370.86,289.63,24
+41,Eklavya Sugarcane Micronutrient 41,Micronutrient,Sugarcane,500 g,921.16,664.81,24
+42,Eklavya Cotton Micronutrient 42,Micronutrient,Cotton,1 kg,823.37,644.47,24
+43,Eklavya Soybean Micronutrient 43,Micronutrient,Soybean,100 ml,738.09,520.68,36
+44,Eklavya Onion Micronutrient 44,Micronutrient,Onion,250 ml,996.45,715.24,18
+45,Eklavya Banana Micronutrient 45,Micronutrient,Banana,500 ml,2095.49,1546.51,18

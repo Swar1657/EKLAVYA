@@ -1,0 +1,36 @@
+2026-08-14 03:27:56,610 NL query failed
+Traceback (most recent call last):
+  File "D:\Eklavya internship\src\nl_query\api.py", line 11, in query
+    sql=generate_sql(body.question); logging.info("question=%r sql=%r",body.question,sql); result=execute_safe(sql)
+  File "D:\Eklavya internship\src\nl_query\nl_to_sql.py", line 12, in generate_sql
+    client=Groq(api_key=os.environ["GROQ_API_KEY"])
+                        ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 709, in __getitem__
+KeyError: 'GROQ_API_KEY'
+2026-08-14 03:28:24,790 NL query failed
+Traceback (most recent call last):
+  File "D:\Eklavya internship\src\nl_query\api.py", line 11, in query
+    sql=generate_sql(body.question); logging.info("question=%r sql=%r",body.question,sql); result=execute_safe(sql)
+  File "D:\Eklavya internship\src\nl_query\nl_to_sql.py", line 12, in generate_sql
+    client=Groq(api_key=os.environ["GROQ_API_KEY"])
+                        ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 709, in __getitem__
+KeyError: 'GROQ_API_KEY'
+2026-08-14 03:29:49,053 NL query failed
+Traceback (most recent call last):
+  File "D:\Eklavya internship\src\nl_query\api.py", line 11, in query
+    sql=generate_sql(body.question); logging.info("question=%r sql=%r",body.question,sql); result=execute_safe(sql)
+  File "D:\Eklavya internship\src\nl_query\nl_to_sql.py", line 12, in generate_sql
+    client=Groq(api_key=os.environ["GROQ_API_KEY"])
+                        ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 709, in __getitem__
+KeyError: 'GROQ_API_KEY'
+2026-08-14 03:31:16,038 NL query failed
+Traceback (most recent call last):
+  File "D:\Eklavya internship\src\nl_query\api.py", line 11, in query
+    sql=generate_sql(body.question); logging.info("question=%r sql=%r",body.question,sql); result=execute_safe(sql)
+  File "D:\Eklavya internship\src\nl_query\nl_to_sql.py", line 12, in generate_sql
+    client=Groq(api_key=os.environ["GROQ_API_KEY"])
+                        ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 709, in __getitem__
+KeyError: 'GROQ_API_KEY'
